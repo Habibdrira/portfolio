@@ -23,27 +23,10 @@
   color: var(--text-primary);
   text-decoration: none;
   transition: color 0.3s ease;
-  display: inline-flex;
-  align-items: center;
-  gap: 12px;
 }
 
 .navbar-logo:hover {
   color: var(--accent);
-}
-
-.navbar-logo-icon {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(135deg, var(--accent), var(--accent-hover));
-  color: #0f0f0f;
-  font-size: 0.85rem;
-  font-weight: 800;
-  box-shadow: var(--glow);
 }
 
 .navbar-menu {
