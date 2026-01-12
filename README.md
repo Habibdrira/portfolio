@@ -13,7 +13,6 @@ Un portfolio moderne et professionnel créé avec **React** et **CSS personnalis
 - [Installation](#-installation)
 - [Utilisation](#-utilisation)
 - [Sections](#-sections)
-- [Projets présentés](#-projets-présentés)
 - [Contribuer](#-contribuer)
 - [Contact](#-contact)
 - [Licence](#-licence)
@@ -185,33 +184,10 @@ Présentation principale avec:
 - Localisation (Tunis, Tunisie)
 
 ### 4. **Skills** (Compétences)
-Compétences organisées par catégories:
-- **Cloud & DevOps:** AWS, Azure, Google Cloud, Docker, Kubernetes
-- **Conteneurs:** Docker, Docker Compose
-- **Orchestration:** Kubernetes (K8s), OpenShift
-- **Infrastructure as Code:** Terraform, Ansible
-- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
-- **Monitoring:** Prometheus, Grafana, ELK Stack
-- **Bases de données:** PostgreSQL, MongoDB, MySQL
-- **Langages:** Python, Java, Node.js, Bash
-- **Autres:** Git, Linux, Microservices, REST APIs
+Section dédiée pour présenter vos compétences techniques. Consultez le portfolio directement pour voir la liste complète.
 
 ### 5. **Projects** (Projets)
-Showcase de projets professionnels avec:
-- Titre et description
-- Technologies utilisées (tags)
-- Liens vers dépôts GitHub
-- Effets glassmorphiques
-
-**Projets inclus:**
-- CRM Kubernetes
-- SaaS Docker (Flask)
-- Plateforme Banking (Spring Cloud)
-- OpenStack Deploy
-- Fleetman Microservices
-- Core Banking System
-- Full-Stack To-Do App
-- Gestion Employés (Laravel)
+Showcase de projets professionnels avec descriptions, technologies utilisées et liens vers dépôts GitHub. Consultez le portfolio directement pour voir la liste complète de mes projets.
 
 ### 6. **Contact** (Formulaire)
 Formulaire de contact pour:
@@ -223,90 +199,6 @@ Formulaire de contact pour:
 - Copyright & informations
 - Lien vers le repository GitHub
 - Année dynamique
-
----
-
-## 🚀 Projets présentés
-
-### 1. CRM Kubernetes
-**Techno:** Kubernetes, Docker, Node.js
-**Description:** Système CRM containerisé et orchestré avec Kubernetes
-
-### 2. SaaS Docker (Flask)
-**Techno:** Docker, Flask, Python
-**Description:** Application SaaS modulaire avec Docker Compose
-
-### 3. Plateforme Banking (Spring Cloud)
-**Techno:** Spring Cloud, Microservices, Java
-**Description:** Architecture microservices pour plateforme bancaire
-
-### 4. OpenStack Deploy
-**Techno:** OpenStack, Infrastructure, Linux
-**Description:** Infrastructure cloud déployée sur OpenStack
-
-### 5. Fleetman Microservices
-**Techno:** Microservices, Spring Boot, Kubernetes
-**Description:** Système de gestion de flotte avec microservices
-
-### 6. Core Banking System
-**Techno:** Spring Boot, Microservices, PostgreSQL
-**Description:** Système bancaire core avec architecture modulaire
-
-### 7. Full-Stack To-Do App
-**Techno:** React, Node.js, MongoDB
-**Description:** Application complète de gestion de tâches
-
-### 8. Gestion Employés (Laravel)
-**Techno:** Laravel, PHP, MySQL
-**Description:** Système CRUD pour gestion d'employés
-
----
-
-## 🎨 Thème & Couleurs
-
-### Palette de couleurs
-```css
---primary: #121212          /* Fond principal noir */
---accent: #7c7cff           /* Violet principal */
---accent-bright: #9ea0ff    /* Violet lumineux */
---text-primary: #ffffff     /* Texte blanc */
---text-secondary: #b0b0b0   /* Texte gris */
---text-muted: #808080       /* Texte très gris */
---bg-card: #1a1a1a          /* Fond des cartes */
---surface-border: rgba(124, 124, 255, 0.25)  /* Bordure accent */
-```
-
-### Effets visuels
-- **Glassmorphism:** Fond translucide avec blur
-- **Glow:** `box-shadow` avec accent color
-- **Gradients:** Dégradés linéaires sophistiqués
-- **Grid Overlay:** Motif de grille subtil en arrière-plan
-
----
-
-## 📝 Fichiers clés modifiés
-
-### index.css
-- Palette de couleurs mise à jour
-- Dégradés d'arrière-plan
-- Grille overlay
-- Styles pour boutons et cartes
-
-### Projects.css
-- Cartes glassmorphiques
-- Borders translucides
-- Glow effects au hover
-- Tech pills stylisées
-
-### Skills.css
-- Catégories avec glassmorphism
-- Tags accent avec glow
-- Hover animations
-
-### Footer.js & Footer.css
-- Lien GitHub repository
-- Lien navigable dans nouvel onglet
-- Styling cohérent avec thème
 
 ---
 
