@@ -233,9 +233,9 @@ git push origin feature/NomFeature
 
 ## 📞 Contact
 
-- **Email:** [À ajouter]
+- **Email:** [habibdrira6@gmail.com](mailto:habibdrira6@gmail.com)
 - **GitHub:** [https://github.com/Habibdrira](https://github.com/Habibdrira)
-- **LinkedIn:** [À ajouter]
+- **LinkedIn:** [https://www.linkedin.com/in/habibdrira6/](https://www.linkedin.com/in/habibdrira6/)
 - **Location:** Tunis, Tunisie
 
 Utilisez le formulaire de contact sur le portfolio ou accédez directement au repository GitHub.
